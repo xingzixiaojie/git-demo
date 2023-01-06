@@ -9,5 +9,5 @@ hello git.
 22222
 33333
 44444
-master test
+hot fix test
 66666
